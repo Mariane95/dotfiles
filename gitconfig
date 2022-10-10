@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mariane.piovezan@hotmail.com
+	name = Mariane Teixeira
